@@ -2,4 +2,4 @@
 
 ### We are actively hearing,learning and growing. Please expect major changes to features being offered hereby and improvements in quality.
 
-### To achive this Goal, we are closely monitoring this repo and this project welcomes feature requests and suggestions. 
+### To achive this Goal, we are closely monitoring this repo and this project welcomes feature requests and suggestions.
